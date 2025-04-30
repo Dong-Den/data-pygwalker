@@ -2,5 +2,4 @@ matplotlib
 seaborn
 pandas
 pygwalker
-io
 plotly.express
