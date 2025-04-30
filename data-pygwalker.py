@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import pygwalker as pyg
-from io import StringIO
+import io
 import matplotlib.pyplot as plt
 import plotly.express as px
 
