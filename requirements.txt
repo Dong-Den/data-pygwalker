@@ -2,5 +2,5 @@ matplotlib
 seaborn
 pandas
 pygwalker
-StringIO
+Stringio
 plotly.express
